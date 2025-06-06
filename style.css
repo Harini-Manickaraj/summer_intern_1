@@ -1,0 +1,20 @@
+ h1{
+    text-align: center;
+     background-color:rgb(149, 214, 234);
+ }
+ h2{
+    color: rgb(248, 5, 135);
+ }
+ h3{
+    color: rgb(251, 52, 204);
+ }
+ a{
+    color: aqua;
+ }
+ body{
+    background-color: whitesmoke;
+    background-image: url(lamp.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+ }
