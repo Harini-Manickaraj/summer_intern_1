@@ -13,7 +13,7 @@
  }
  body{
     background-color: whitesmoke;
-    background-image: url('https://raw.githubusercontent.com/Harini-Manickaraj/summer_intern_1/main/lamp.jpg');
+    background-image: url("https://raw.githubusercontent.com/Harini-Manickaraj/summer_intern_1/main/lamp.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
